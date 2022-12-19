@@ -27,10 +27,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubhamverma17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubhamverma94" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Shubhamverma94/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Shubahmverma94/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubhamverma17" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shubhamverma94/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubhamverma94" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Shubhamverma94/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shubhamverma94/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Shubahmverma94/" height="30" width="40" /></a>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spvhantale" alt="spvhantale" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubhamverma94" alt="Shubhamverma94" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; justify-content:space-between;gap: 20px;">
@@ -52,7 +52,7 @@
 <h3>Most Language Used</h3>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamverma94&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamverma94&theme=radical&langs_count=8" alt="Shubhamverma94" height="260px" width="25%" />
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Shubhamverma94&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
 
