@@ -49,10 +49,13 @@
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/Shubhamverma94/count.svg" />
 </h3>
-<h3>Most Language Used</h3>
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamverma94&theme=radical&langs_count=8" alt="saam" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Shubhamverma94&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
-<div>
+<h3  align="center">Most Language Used</h3>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamverma94&theme=radical&langs_count=8" alt="Shubhamverma94" height="200px" width="25%" />
+  </div>
+  
+ <div>
+ <a href="https://github.com/Shubhamverma94/github-readme-activity-graph"><img alt="Shubhamverma94 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Shubhamverma94&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<div> 
 
