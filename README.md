@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **imkannu.shubham@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/108WaoPUeUO0ZgMqNjcS3E-L4k0pA74vs/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1C6EHCwCwsylYp3xQd2CgL9FtsbDjUzLt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
