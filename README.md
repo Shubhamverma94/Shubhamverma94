@@ -1,11 +1,11 @@
 [![MasterHead](https://camo.githubusercontent.com/3015c6f34ed5c2131bac41a22b7a27a847f65803d232c99fe31f649c9c746fbd/68747470733a2f2f7777772e61616469747269746563686e6f6c6f67792e636f6d2f696d616765732f726564657369676e2e676966)](https://spvhantale.io)
 <h1 align="center">Hi 👋, I'm Shubham Verma</h1>
-<h3 align="center">A passionate React Frontend Developer from India</h3>
+<h3 align="center">Aspiring Software Development Engineer in Test from India</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🙏🙏 नमस्ते! ; I am a Full-stack%20web%20developer 👨🏻‍💻;  Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=🙏🙏 नमस्ते! ; I am a Software%20Development%20engineer%20in%20Test 👨🏻‍💻;  Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" />
@@ -15,15 +15,15 @@
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **React Frontend Developer**
+- 🌱 I’m currently learning **Performace Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shubhamverma94](https://github.com/Shubhamverma94)
 
-- 💬 Ask me about **React,JavaScript,HTML,CSS**
+- 💬 Ask me about **Manual Testing, Automation Testing, Mobile Testing, Java, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **imkannu.shubham@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1C6EHCwCwsylYp3xQd2CgL9FtsbDjUzLt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LJdOxPs3ZAJFFQ6V7dZwU61VBKys7ImD/view?usp=sharing)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
