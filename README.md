@@ -72,6 +72,6 @@
   </div>
   
  <div>
- <a href="https://github.com/Shubhamverma94/github-readme-activity-graph"><img alt="Shubhamverma94 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Shubhamverma94&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+ <a href="https://github.com/Shubhamverma94/github-readme-activity-graph"><img alt="Shubhamverma94 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamverma94&bg_color=faf8fc&color=9e4c98&line=bb82bf&point=403d3d&area=true&hide_border=true" /></a>
 <div> 
 
